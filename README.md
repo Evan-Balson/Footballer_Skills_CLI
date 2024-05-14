@@ -10,7 +10,7 @@ This Python Command Line Interface (CLI) program aims to encapsulate functionali
 
 
 ## Description:
-Footballer_Skills.py: Explores Basic Python Principles, showcasing the flexibility of this IDE in computing. It will explore fundamental arithmetic, subroutines, and control flow with sample a sample program which we will develop into an advanced program with robust error & exception handlining:
+Footballer_Skills.py: Explores Essential Python Principles, showcasing the flexibility of this IDE in computing. It will explore fundamental arithmetic, subroutines, and control flow with sample a sample program which we will develop into an advanced program with robust error & exception handlining:
 
 ## Solution for Basic Program:
 * [x] Design pseudocode or draw a flowchart for the program.
