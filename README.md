@@ -3,7 +3,7 @@ Footballer_Skills.py: Explores Basic Python Principles
 Submitted by: Evan Balson
 ### Time spent: 20 days
 
-<img src='https://github.com/Evan-Balson/Footballer_Skills_CLI/blob/main/footballer_skill_CLI.png />
+<img src='https://github.com/Evan-Balson/Footballer_Skills_CLI/blob/main/footballer_skill_CLI.png' />
 
 # Footballer_Skills_CLI
 This Python Command Line Interface (CLI) program aims to encapsulate functionalities essential for  comprehensive football player evaluation. This will include an organized code structure, employing  variables, functions, control structures, lists and standard libraries enhancing modularity and readability.
