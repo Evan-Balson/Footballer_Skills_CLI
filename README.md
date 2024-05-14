@@ -13,91 +13,89 @@ This Python Command Line Interface (CLI) program aims to encapsulate functionali
 Footballer_Skills.py: Explores Basic Python Principles, showcasing the flexibility of this IDE in computing. It will explore fundamental arithmetic, subroutines, and control flow with sample a sample program which we will develop into an advanced program with robust error & exception handlining:
 
 ## Solution for Basic Program:
-
-*[x] Design pseudocode or draw a flowchart for the program.
+* [x] Design pseudocode or draw a flowchart for the program.
 ### Implement input function to collect player data for:
-*[x] Speed
-*[x] Shooting
-*[x] Passing
-*[x] Defending
-*[x] Dribbling
-*[x] Physicality
+* [x] Speed
+* [x] Shooting
+* [x] Passing
+* [x] Defending
+* [x] Dribbling
+* [x] Physicality
 ### Use an appropriate data structure to store:
-*[x] Player skill ratings
-*[x] Calculated overall rates
-*[x] Corresponding salaries
+* [x] Player skill ratings
+* [x] Calculated overall rates
+* [x] Corresponding salaries
 ### Calculate the overall rate using the formula:
-*[x] Summation of skill ratings * 100 / 30
-*[x] Implement salary estimation logic:
-*[x] Overall rate >= 80: Salary = 1000
-*[x] 60 <= Overall rate < 80: Salary options = 1000, 700
-*[x] Overall rate == 60: Salary = 700
-*[x] 45 <= Overall rate < 60: Salary options = 700, 500
-*[x] Overall rate == 45: Salary = 500
-*[x] 30 <= Overall rate < 45: Salary options = 500, 400
-*[x] Overall rate <= 30: Salary = 400
-*[x] Print the computed salary value(s) as integers.
+* [x] Summation of skill ratings * 100 / 30
+* [x] Implement salary estimation logic:
+* [x] Overall rate >= 80: Salary = 1000
+* [x] Overall rate == 60: Salary = 700
+* [x] 45 <= Overall rate < 60: Salary options = 700, 500
+* [x] Overall rate == 45: Salary = 500
+* [x] 30 <= Overall rate < 45: Salary options = 500, 400
+* [x] Overall rate <= 30: Salary = 400
+* [x] Print the computed salary value(s) as integers.
 ### Ensure the program follows a clear structure with appropriate functions:
-*[x] Function to collect input
-*[x] Function to calculate overall rate
-*[x] Function to determine salary
-*[x] Function to output results
-*[x] (Optional) Add validation and error handling for input values to ensure they are within the range 0-5.
+* [x] Function to collect input
+* [x] Function to calculate overall rate
+* [x] Function to determine salary
+* [x] Function to output results
+* [x] (Optional) Add validation and error handling for input values to ensure they are within the range 0-5.
 
 
 ## Solution for Advanced Program:
 
 ### Checklist for Functions:
-*[x]  Split and pack up coursework 1 code into functions.
-*[x]  Implement main() function.
-*[x]  Implement calculate_rating() function.
-*[x]  Implement calculate_salary() function.
-*[x]  Use main() to call other functions:
-*[x]  Receive 6 player skill ratings.
-*[x]  Calculate the player's overall rating.
-*[x]  Calculate the player's salary range.
+* [x]  Split and pack up coursework 1 code into functions.
+* [x]  Implement main() function.
+* [x]  Implement calculate_rating() function.
+* [x]  Implement calculate_salary() function.
+* [x]  Use main() to call other functions:
+* [x]  Receive 6 player skill ratings.
+* [x]  Calculate the player's overall rating.
+* [x]  Calculate the player's salary range.
 ### Checklist for Input Expansion
-*[x]  Adjust the program to ask for:
-*[x]  Player ID (2-digit number).
-*[x]  Player name.
-*[x]  Player date-of-birth (D.o.B) in ISO format (YEAR-MONTH-DATE).
-*[x]  Ask for the 6 skills (speed, shooting, passing, defending, dribbling, physicality).
+* [x]  Adjust the program to ask for:
+* [x]  Player ID (2-digit number).
+* [x]  Player name.
+* [x]  Player date-of-birth (D.o.B) in ISO format (YEAR-MONTH-DATE).
+* [x]  Ask for the 6 skills (speed, shooting, passing, defending, dribbling, physicality).
 ### Checklist for Looping the Code
 #### Implement a loop to:
-*[x]  Ask for information for three players, or
-*[x]  Until the input for user ID is "end".
+* [x]  Ask for information for three players, or
+* [x]  Until the input for user ID is "end".
 ### Checklist for Calculating Overall Ratings
-*[x]  Calculate the players' overall ratings.
-*[x]  Store the overall ratings for later use.
+* [x]  Calculate the players' overall ratings.
+* [x]  Store the overall ratings for later use.
 ### Checklist for Calculating Salary Ranges
-*[x]  Calculate the players' salary ranges.
-*[x]  Store the salary ranges for later use.
+* [x]  Calculate the players' salary ranges.
+* [x]  Store the salary ranges for later use.
 ### Checklist for Calculating Players' Ages
-*[x]  Calculate each player's age based on year of birth.
-*[x]  Store the age for later use.
+* [x]  Calculate each player's age based on year of birth.
+* [x]  Store the age for later use.
 ### Checklist for Tabulating Data
-*[x]  Use the tabulate library to display a table summarizing input data in ascending order of user ID.
-*[x]  Table columns: UID, Name, D.o.B, Age, Score, Salary Range.
+* [x]  Use the tabulate library to display a table summarizing input data in ascending order of user ID.
+* [x]  Table columns: UID, Name, D.o.B, Age, Score, Salary Range.
 ### Checklist for File Writing
-*[x]  Save the summary table into a local file named "players.txt".
+* [x]  Save the summary table into a local file named "players.txt".
 ### Checklist for Input Validation
-*[x]  Implement robust input validation:
-*[x]  Validate player ID.
-*[x]  Validate D.o.B.
-*[x]  Validate ratings.
-*[x]  Display warning "The rating you entered was invalid" for any input errors.
+* [x]  Implement robust input validation:
+* [x]  Validate player ID.
+* [x]  Validate D.o.B.
+* [x]  Validate ratings.
+* [x]  Display warning "The rating you entered was invalid" for any input errors.
 ### Checklist for Data Structures
-*[x]  Use appropriate data structures for storing player information.
+* [x]  Use appropriate data structures for storing player information.
 ### Checklist for Code Structures
-*[x]  Use appropriate code structures for implementing the functionality.
+* [x]  Use appropriate code structures for implementing the functionality.
 ### Checklist for Distinction Advanced Function
-*[x]  Implement advanced() function:
-*[x]  Serve as a complimentary main() method.
-*[x]  Use the provided file as input instead of user input.
-*[x]  Accept filename as an argument.
-*[x]  Read user information record from provided file "PlayerData.txt".
-*[x]  Use this data as input for the program.
-*[x]  Call all other functions and produce a text file output (requirement 8).
+* [x]  Implement advanced() function:
+* [x]  Serve as a complimentary main() method.
+* [x]  Use the provided file as input instead of user input.
+* [x]  Accept filename as an argument.
+* [x]  Read user information record from provided file "PlayerData.txt".
+* [x]  Use this data as input for the program.
+* [x]  Call all other functions and produce a text file output (requirement 8).
 
 
 ## Table of Content:
