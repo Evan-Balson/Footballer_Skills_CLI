@@ -14,7 +14,7 @@ Footballer_Skills.py: Explores Essential Python Principles, showcasing the flexi
 
 
 ## Basic flow chart for simple progam
-</img src='https://github.com/Evan-Balson/Footballer_Skills_CLI/blob/main/basic%20flow%20chart.jpg'/>
+<img src='https://github.com/Evan-Balson/Footballer_Skills_CLI/blob/main/basic%20flow%20chart.jpg'/>
 
 ### Implement input function to collect player data for:
 * [x] Speed
