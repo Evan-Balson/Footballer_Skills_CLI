@@ -12,8 +12,10 @@ This Python Command Line Interface (CLI) program aims to encapsulate functionali
 ## Description:
 Footballer_Skills.py: Explores Essential Python Principles, showcasing the flexibility of this IDE in computing. It will explore fundamental arithmetic, subroutines, and control flow with sample a sample program which we will develop into an advanced program with robust error & exception handlining:
 
-## Solution for Basic Program:
-* [x] Design pseudocode or draw a flowchart for the program.
+
+## Basic flow chart for simple progam
+</img src='https://github.com/Evan-Balson/Footballer_Skills_CLI/blob/main/basic%20flow%20chart.jpg'/>
+
 ### Implement input function to collect player data for:
 * [x] Speed
 * [x] Shooting
@@ -41,6 +43,13 @@ Footballer_Skills.py: Explores Essential Python Principles, showcasing the flexi
 * [x] Function to determine salary
 * [x] Function to output results
 * [x] (Optional) Add validation and error handling for input values to ensure they are within the range 0-5.
+
+
+## Flow chart for advanced Program:
+* [x] Design pseudocode or draw a flowchart for the program.
+
+<img src='https://github.com/Evan-Balson/Footballer_Skills_CLI/blob/main/advanced%20flow%20chart.png' />
+
 
 
 ## Solution for Advanced Program:
