@@ -104,7 +104,7 @@ Footballer_Skills.py: Explores Essential Python Principles, showcasing the flexi
 * [x]  Accept filename as an argument.
 * [x]  Read user information record from provided file "PlayerData.txt".
 * [x]  Use this data as input for the program.
-* [x]  Call all other functions and produce a text file output (requirement 8).
+* [x]  Call all other functions and produce a text file output.
 
 
 ## Table of Content:
